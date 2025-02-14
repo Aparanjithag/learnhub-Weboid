@@ -1,6 +1,6 @@
 # WEBOIN
 
-This project was bootstrapped with [Project Link](https://learnhubweboid.netlify.app/).
+This project was bootstrapped with [Project Link](https://delicate-lebkuchen-1074c1.netlify.app/).
 
 ## Available Scripts
 
